@@ -10,6 +10,5 @@ I specialize in Flutter development, creating high-quality mobile applications. 
 - State Management (Provider, Riverpod)
 
 🔗 **Find me online:**
-- [LinkedIn](https://www.linkedin.com/in/yourname)
-- [Portfolio Website](https://yourwebsite.com)
-- [Telegram](https://t.me/yourusername)
+- [LinkedIn]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/mohamed-benhadjer-40543b2a8/))
+
